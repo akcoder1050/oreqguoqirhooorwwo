@@ -1,0 +1,145 @@
+.bottomMargin{
+
+     background: linear-gradient(#4deaf7 0%, #f8616d 100%);
+     text-align:center;
+     height: 250px;
+     color:white;
+     margin-top: 400px;
+     justify-content: center;    
+     font-size: 25px;
+
+}
+
+#scrollToTopBtn:hover{
+
+    transform: scale(1.2);
+
+ }
+
+ #scrollToTopBtn {
+
+     position:fixed;
+     width:80px;
+     height:80px;
+     bottom:40px;
+     right:40px;
+     background-color:white;
+     color:#FFF;
+     border-radius:100px;
+     text-align:center;
+
+ }
+
+ .sites{
+
+          color:white;
+          padding-top: 90px;
+ } 
+
+ .bigImage {
+
+	display: table-cell;
+	position: relative;
+	text-align: center;
+	vertical-align: middle;
+    background: linear-gradient(#4deaf7 0%, #f8616d 100%);
+    width: 1500px;
+
+}
+
+.profile {
+
+	width: 250px;
+	margin-bottom: 50px;
+	border-radius: 50%;
+    height: 250px;
+    margin-top: 60px;
+
+}
+
+h1 {
+
+	font-size: 40px;
+	line-height: 1.2;
+	font-family: fantasy;
+	font-weight: 300;
+    text-align: center;
+    color: white;
+
+}
+
+h2 {
+
+	font-size: 30px;
+	line-height: 1.2;
+	font-family: monospace;
+	font-weight: 300;
+    text-align: center;
+    color: white;
+
+}
+
+#name {
+
+	font-size: 30px;
+	line-height: 1.2;
+	font-family: cursive;
+
+}
+
+.me{
+
+    border-radius: 20px;
+    background: linear-gradient(#4deaf7 0%, #f8616d 100%);
+    padding: 30px;
+    margin-left:500px;
+    padding-top:center;
+    width:200px;
+
+}
+
+.menu {
+    
+	list-style: none;
+	position: fixed;
+	cursor: pointer;
+    justify-self: space-between;
+    width:1200px;
+    height:30px;
+    align-items: left;
+    text-align: right;
+
+}
+
+.heading{
+ 
+    border-radius: 20px;
+    background: linear-gradient(#4deaf7 0%, #f8616d 100%);
+    padding: 30px;
+    width:1190px;
+    margin-top: 20px;
+    text-align: center;
+    color:white;
+    
+}
+
+.games{
+
+    border-radius: 20px;
+    background: linear-gradient(#4deaf7 0%, #f8616d 100%);
+    padding: 30px;
+    margin: 25px;
+    width:550px;
+    color:white;
+
+}
+
+.games:hover{
+
+    transform: scale(1.1);
+    
+}
+.all{
+
+    
+}
